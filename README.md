@@ -70,7 +70,7 @@ Streamlit Dashboard Visualization
 
 ---
 
-##  Project Structure
+##  Project Structure(Folders cannot direct upload so i upload zip files of these folders)
 
 ```
 Social-Media-Sentiment-Analysis-Dashboard/
