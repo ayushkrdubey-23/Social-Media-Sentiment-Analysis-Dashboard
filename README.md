@@ -75,7 +75,7 @@ Streamlit Dashboard Visualization
 ```
 Social-Media-Sentiment-Analysis-Dashboard/
 │
-├── data/                # Dataset
+├── data/                # Dataset but not upload because this file size is more than 25mb
 ├── models/              # Saved ML model & vectorizer
 ├── src/                 # Modular ML pipeline code
 ├── app/                 # Streamlit dashboard
